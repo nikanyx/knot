@@ -1,0 +1,146 @@
+@font-face {
+  font-family: 'Lato-Regular';
+  src: url('../fonts/Lato-Regular.eot');
+  src: url('../fonts/Lato-Regular.woff2') format('woff2'),
+       url('../fonts/Lato-Regular.woff') format('woff'),
+       url('../fonts/Lato-Regular.ttf') format('truetype'),
+       url('../fonts/Lato-Regular.svg#Lato-Regular') format('svg'),
+       url('../fonts/Lato-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato-Bold';
+  src: url('../fonts/Lato-Bold.eot');
+  src: url('../fonts/Lato-Bold.woff2') format('woff2'),
+       url('../fonts/Lato-Bold.woff') format('woff'),
+       url('../fonts/Lato-Bold.ttf') format('truetype'),
+       url('../fonts/Lato-Bold.svg#Lato-Bold') format('svg'),
+       url('../fonts/Lato-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato-Light';
+  src: url('../fonts/Lato-Light.eot');
+  src: url('../fonts/Lato-Light.woff2') format('woff2'),
+       url('../fonts/Lato-Light.woff') format('woff'),
+       url('../fonts/Lato-Light.ttf') format('truetype'),
+       url('../fonts/Lato-Light.svg#Lato-Light') format('svg'),
+       url('../fonts/Lato-Light.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sacramento-Regular';
+  src: url('../fonts/Sacramento-Regular.eot');
+  src: url('../fonts/Sacramento-Regular.woff2') format('woff2'),
+       url('../fonts/Sacramento-Regular.woff') format('woff'),
+       url('../fonts/Sacramento-Regular.ttf') format('truetype'),
+       url('../fonts/Sacramento-Regular.svg#Sacramento-Regular') format('svg'),
+       url('../fonts/Sacramento-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Oswald-Regular';
+  src: url('../fonts/Oswald-Regular.eot');
+  src: url('../fonts/Oswald-Regular.woff2') format('woff2'),
+       url('../fonts/Oswald-Regular.woff') format('woff'),
+       url('../fonts/Oswald-Regular.ttf') format('truetype'),
+       url('../fonts/Oswald-Regular.svg#Oswald-Regular') format('svg'),
+       url('../fonts/Oswald-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Account */
+@font-face {
+	font-family: 'OpenSans';
+	src: url('../fonts/OpenSans-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+/* Account */
+
+@font-face {
+	font-family: 'RobotoRegular';
+	src: url('../fonts/RobotoRegular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'RobotoBold';
+	src: url('../fonts/RobotoBold.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'RobotoCondensedRegular';
+	src: url('../fonts/RobotoCondensedRegular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'roboto_condensedbold';
+	src: url('../fonts/robotocondensed-bold-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'LatoLight';
+	src: url('../fonts/LatoLight.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'LatoBold';
+	src: url('../fonts/LatoBold.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PoppinsBold';
+	src: url('../fonts/PoppinsBold.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Metrocity-Light';
+	src: url('../fonts/Metrocity-Light.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Metrocity-Book';
+	src: url('../fonts/Metrocity-Book.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Metrocity-Medium';
+	src: url('../fonts/Metrocity-Medium.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Metrocity-Bold';
+	src: url('../fonts/Metrocity-Bold.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
