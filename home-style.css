@@ -1,0 +1,899 @@
+/*-------------------   Banners - Desktop   -------------------*/
+
+#banner-xmas {
+  background-image: url("images/Top3.jpg");
+  background-size: cover;
+  background-position: left;
+  background-repeat: no-repeat;
+}
+
+#HP_BL_PPresents {
+  background-image: url("https://www.knotkids.com/images/BK---PerfectPresent.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#HP_BL_blank {
+  margin-top: 150px;
+  width: 100%;
+}
+
+#HP_BN_Promo30 {
+  background-image: url("https://www.knotkids.com/images/BN-promo.jpg");
+  background-size: cover;
+  background-position: left;
+  background-repeat: no-repeat;
+}
+
+/*-------------------   Bypass - Código Redicom  - DESKTOP   -------------------*/
+
+.wrapper-page {
+  padding: 22px 0px 100px;
+}
+
+.box-images {
+  height: auto !important;
+  display: none !important;
+}
+/*-------------------   Cores   -------------------*/
+
+.gray {
+  color: #666666;
+}
+
+.white {
+  color: #ffffff;
+  text-shadow: 0px 1px 2px #999999;
+}
+/*-------------------   Geral - DESKTOP   -------------------*/
+
+#Tela {
+  max-width: 1300px;
+  margin: auto;
+  text-align: center;
+}
+
+.BL-sep {
+  width: 30px;
+  height: 30px;
+}
+
+.sep {
+  height: 30px;
+}
+
+/*-------------------   Banners - DESKTOP   -------------------*/
+
+.banner {
+  width: 100%;
+  height: 350px;
+  position: relative;
+}
+
+.h500 {
+  height: 500px!important;
+}
+
+.h350 {
+  height: 350px!important;
+}
+
+.h200 {
+  height: 200px!important;
+}
+
+.BN-img {
+  width: 100%;
+}
+
+.BN-txt-200 {
+  position: absolute;
+  top: 50%;
+  margin: 0px;
+  margin-top: -125px;
+  height: 250px;
+}
+
+.BN-txt-350 {
+  position: absolute;
+  top: 50%;
+  margin: 0px;
+  margin-top: -85px;
+  height: 170px;
+}
+
+.BN-txt-500 {
+  position: absolute;
+  top: 35%;
+  margin: 0px;
+  text-align: center;
+}
+
+.bFriday-img {
+  width: 250px;
+}
+
+.img-camp {
+  height: 282px!important;
+  margin-bottom: 50px!important;
+  display: block!important;
+}
+
+.banner:hover>div>.link {
+  font-size: 35px;
+  transition-duration: .5s;
+  text-decoration: none!important;
+}
+
+.BN-titulo {
+  font-size: 30px;
+  font-family: 'lato-Regular';
+  line-height: 100%;
+  margin: 0px 0px 10px 0px;
+}
+
+.BN-subtitulo {
+  font-family: 'Lato-Light';
+  line-height: 100%;
+  font-size: 20px;
+  margin: 0px;
+  margin-bottom: 40px;
+}
+
+.BN-tema {
+  font-family: 'lato-Light';
+  line-height: 100%;
+  font-size: 30px;
+  margin: 0px;
+  margin-bottom: 20px;
+}
+
+.link {
+  text-decoration: none;
+  font-family: 'Lato-Light';
+  position: relative;
+  line-height: 100%;
+  font-size: 20px;
+  margin: 0px;
+  border-bottom: 1px solid;
+  border-color: inherit;
+  transition-duration: .5s;
+}
+
+.left {
+  text-align: left!important;
+  left: 10%;
+}
+
+.right {
+  text-align: right!important;
+  right: 10%;
+}
+
+.center {
+  text-align: center!important;
+  left: 50%!important;
+  width: 350px;
+  margin-left: -150px!important;
+}
+/*-------------------   Bloco de 2 - DESKTOP   -------------------*/
+
+.BL-2x {
+  flex-basis: auto;
+  display: flex;
+}
+
+.BL-2x-1 {
+  display: block;
+  position: relative;
+  justify-content: center;
+  width: 49%;
+}
+
+.bloco-img {
+  width: 100%;
+  padding-top: 100%;
+}
+
+.BL-txt {
+  position: absolute;
+  bottom: 8%;
+  left: 50%;
+  margin: 0px;
+  margin-left: -175px;
+  width: 350px;
+  text-align: center;
+}
+
+.BL-txt-right {
+  position: absolute;
+  top: 53%;
+  right: 23%;
+  margin: 0px;
+  margin-right: -115px;
+  width: 230px;
+  text-align: center;
+}
+
+.BL-btn {
+  font-size: 16px;
+  font-family: 'lato-Light';
+  line-height: 100%;
+  margin-top: 0px;
+  text-decoration: none!important;
+  padding: 5px 15px 8px;
+  border: 1px solid #666666;
+}
+
+.BL-btn-white {
+  font-size: 16px;
+  font-family: 'lato-Light';
+  line-height: 100%;
+  text-decoration: none!important;
+  padding: 5px 15px 8px;
+  border: 1px solid #ffffff!important;
+  color: #ffffff!important;
+  text-shadow: 0px 1px 2px #999999;
+  transition-duration: .5s;
+}
+
+div:hover>div>.BL-btn-white {
+  border: 1px solid white;
+  background-color: #ffffff;
+  color: #666666!important;
+  text-shadow: none;
+}
+
+.BL-btn-whiteBG {
+  font-size: 16px;
+  font-family: 'lato-Light';
+  line-height: 100%;
+  text-decoration: none!important;
+  padding: 5px 15px 8px;
+  border: 1px solid #ffffff!important;
+  background-color: #ffffff;
+  color: #666666!important;
+  transition-duration: .5s;
+}
+
+div:hover>div>.BL-btn-whiteBG {
+  border: 1px solid #666666!important;
+  background-color: #666666!important;
+  color: #ffffff!important;
+  text-shadow: none;
+}
+
+.BL-tema {
+  font-family: 'lato-Light';
+  line-height: 100%;
+  font-size: 30px;
+  margin: 0px;
+  margin-bottom: 20px;
+}
+
+.BL-titulo {
+  font-size: 35px;
+  font-family: 'lato-Legular';
+  line-height: 100%;
+  margin: 0px 0px 5px 0px;
+}
+
+.BL-subtitulo {
+  font-family: 'Lato-Light';
+  line-height: 100%;
+  font-size: 20px;
+  margin: 0px;
+  margin-bottom: 40px;
+}
+
+.BL-link {
+  position: absolute;
+  text-align: center;
+  top: 295px;
+  left: 50%;
+  margin-left: -100px;
+  width: 200px;
+  font-size: 20px;
+  font-family: 'lato-Regular';
+}
+
+.BL-2x-1:hover>div>.link {
+  font-size: 35px;
+  transition-duration: .5s;
+  text-decoration: none!important;
+}
+
+.BL-2x-1:hover>div>.BL-btn {
+  transition-duration: .5s;
+  text-decoration: none!important;
+  background: #ffffff;
+  border: 1px solid #ffffff;
+}
+/*-------------------   Bloco de 3 - DESKTOP   -------------------*/
+
+.BL_3x {
+  width: 100%;
+  display: flex;
+}
+
+.BL_3x-2 {
+  flex-basis: auto;
+  display: flex;
+}
+
+.BL_3x-1 {
+  flex-basis: 410px;
+  display: block;
+  position: relative
+}
+
+.BL_3x-img {
+  width: 100%;
+}
+
+.BL_3x-img2 {
+  width: 100%;
+  display: none;
+}
+
+.BL_3x-sep {
+  width: 30px;
+  height: 30px;
+  flex-basis: 30px;
+}
+
+.BL_3x-txt {
+  text-align: center;
+  font-family: 'lato-Regular';
+  color: #666666;
+  margin-top: -50px;
+}
+
+.BL_3x-txt>p {
+  color: #666666;
+  font-weight: bold;
+  margin: 5px;
+}
+
+.BL_3x-txt>a {
+  color: #666666;
+  font-family: 'lato-Light';
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 20px;
+  border: 1px solid white;
+  background-color: #ffffff;
+  padding: 2px 45px;
+}
+/*-------------------   Extras - MOBILE   -------------------*/
+
+.desk {
+  display: block!important;
+}
+
+.mobile2 {
+  display: none!important;
+}
+
+.BL-btn-troll {
+  font-size: 16px;
+  font-family: 'lato-Light';
+  line-height: 100%;
+  margin-top: 0px;
+  text-decoration: none!important;
+  padding: 15px 35px;
+  background-color: #BD982D;
+  color: #ffffff;
+  transition-duration: .5s;
+}
+
+.BL-2x-1:hover>div>.BL-btn-troll {
+  background-color: #ffffff;
+  border: 1px solid #BD982D;
+  color: #BD982D;
+}
+
+#essentials>div>.BL-btn {
+  border: 1px solid white;
+  padding: 5px 30px;
+  transition-duration: .5s;
+}
+
+#essentials:hover>div>.BL-btn {
+  border: 1px solid white;
+  background-color: #ffffff;
+  color: #666666;
+}
+
+.img-cmtxt {
+  width: 310px;
+}
+
+.cmBtn {
+  position: relative;
+  display: block;
+  width: 160px;
+  margin: auto;
+  margin-top: -140px!important;
+  padding: 10px 40px!important
+}
+/** ************ Geral ************ **/
+
+.text {
+  font-family: 'Lato-light';
+  font-size: 18px;
+  color: #bbbbbb;
+  margin: auto;
+  text-align: justify;
+  text-align-last: center;
+  width: 80%;
+  max-width: 350px;
+}
+
+.title {
+  font-family: 'Lato-light';
+  font-size: 25px;
+  color: #ffffff;
+  margin: 10px auto;
+  text-align: justify;
+  text-align-last: center;
+}
+
+.sub-title {
+  font-family: 'Lato-light';
+  font-size: 18px;
+  color: #bbbbbb;
+  margin: auto;
+  text-align: justify;
+  text-align-last: center;
+  letter-spacing: 2px;
+}
+
+.legenda {
+  color: #bbbbbb;
+  text-align: justify;
+}
+
+.sep {
+  height: 30px;
+}
+
+.form {
+  width: 90%;
+  max-width: 400px;
+  margin: auto!important;
+}
+
+.btn {
+  text-align: center!important;
+  color: #666666!important;
+  padding: 15px 50px;
+  font-size: 18px;
+  background-color: #ffffff!important;
+  border: 2px solid #ffffff!important;
+  transition-duration: .5s;
+}
+
+.btn:hover {
+  text-align: center;
+  color: #ffffff!important;
+  padding: 15px 50px;
+  font-size: 18px;
+  background-color: #404041!important;
+}
+/* Extras - Desktop */
+
+#balao {
+  width: 250px;
+  position: absolute;
+  top: 25px;
+  left: 280px;
+}
+
+.woo {
+  position: fixed;
+  z-index: 999999;
+  left: 120px;
+  bottom: 60px;
+  animation: boo 10s infinite;
+}
+
+@keyframes boo {
+  0% {
+    width: 0px;
+    left: 120px;
+    height: 0px;
+  }
+  20% {
+    width: 0px;
+    left: 120px;
+    height: 0px;
+  }
+  23% {
+    width: 175px;
+    left: 120px;
+    height: 160px;
+  }
+  80% {
+    width: 175px;
+    left: 120px;
+    height: 160px;
+  }
+  83% {
+    width: 0px;
+    left: 120px;
+    height: 0px;
+  }
+  100% {
+    width: 0px;
+    left: 120px;
+    height: 0px;
+  }
+}
+
+.doll {
+  position: fixed;
+  z-index: 999999;
+  left: 20px;
+  bottom: 20px;
+  width: 105px;
+}
+
+.info {
+  position: absolute;
+  bottom: 10px;
+  right: 20px;
+  text-align: right;
+  font-family: 'Lato-light';
+  font-size: 16px;
+  color: #666666;
+  letter-spacing: 2px;
+  transition-duration: .5s;
+}
+
+.info:hover {
+  color: #A54538!important
+}
+
+div:hover>.info {
+  color: #ffffff;
+  font-size: 18px;
+}
+
+.Promo30_img {
+  margin-top: -30px!important;
+}
+/*-------------------   MOBILE   -------------------*/
+/*--------------------------------------------------*/
+
+@media screen and (max-width:770px) {
+  /*--------------------------------------------------*/
+  /*-------------------   MOBILE   -------------------*/
+  /*-------------------   Banners - MOBILE   -------------------*/
+
+  #banner-xmas {
+    background-position: 40% 0%;
+  }
+
+  #HP_BL_blank {
+    margin-top: 0px;
+  }
+
+  #HP_BN_Promo30 {
+    background-position: 65% 0%;
+  }
+
+  /*-------------------   Geral - MOBILE   -------------------*/
+  #Tela {
+    width: 90vw;
+    margin: auto;
+  }
+  .bx-wrapper {
+    display: none!important;
+  }
+  .wrapper-page {
+    padding: 0px;
+  }
+  /*-------------------   Banners - MOBILE   -------------------*/
+  .banner {
+    width: 100%;
+    height: 200px;
+    position: relative;
+  }
+  .BN-img {
+    width: 100%;
+  }
+  .h500 {
+    height: 250px!important;
+  }
+  .h350 {
+    height: 200px!important;
+  }
+  .h200 {
+    height: 250px!important;
+  }
+  .BN-txt-350 {
+    position: absolute;
+    top: 50%;
+    margin: 0px;
+    margin-top: -65px;
+    height: 100px;
+    width: 60%
+  }
+  .BN-txt-500 {
+    position: absolute;
+    top: 50%;
+    margin: 0px;
+    margin-top: -65px;
+    height: 100px;
+    width: 60%
+  }
+  .BN-titulo {
+    font-size: 18px;
+    font-family: 'lato-Regular';
+    line-height: 100%;
+    margin: 0px 0px 5px 0px;
+  }
+  .BN-subtitulo {
+    font-family: 'Lato-Light';
+    line-height: 100%;
+    font-size: 14px;
+    margin: 0px;
+    margin-bottom: 20px;
+  }
+  .BN-tema {
+    font-family: 'lato-Light';
+    line-height: 100%;
+    font-size: 14px;
+    margin: 0px;
+    margin-bottom: 10px;
+  }
+  .link {
+    text-decoration: none;
+    font-family: 'Lato-Light';
+    line-height: 100%;
+    font-size: 18px;
+    margin: 0px;
+    border-bottom: 1px solid;
+    border-color: inherit;
+  }
+  .banner:hover>div>.link {
+    font-size: 25px;
+    transition-duration: .5s;
+    text-decoration: none!important;
+  }
+  .left {
+    text-align: left!important;
+    left: 20px;
+  }
+  .right {
+    text-align: right!important;
+    right: 20px;
+  }
+  .center {
+    text-align: center!important;
+    left: 50%!important;
+    width: 160px;
+    margin-left: -2%!important;
+    margin-top: -40px
+  }
+  /*-------------------   Bloco-2 - MOBILE   -------------------*/
+  .BL-2x {
+    flex-basis: auto;
+    display: block;
+  }
+  .BL-2x-1 {
+    display: block;
+    position: relative;
+    justify-content: center;
+    width: 100%;
+  }
+  .bloco-img {
+    width: 100%;
+  }
+  .BL-txt {
+    position: absolute;
+    top: 78%;
+    left: 50%;
+    margin: 0px;
+    margin-left: -125px;
+    width: 250px;
+    text-align: center;
+  }
+  .BL-tema {
+    font-family: 'lato-Light';
+    line-height: 100%;
+    font-size: 30px;
+    margin: 0px;
+    margin-bottom: 10px;
+  }
+  .BL-txt-right {
+    position: absolute;
+    top: 53%;
+    right: 23%;
+    margin: 0px;
+    margin-right: -80px;
+    width: 160px;
+    text-align: center;
+  }
+  .BL-btn {
+    font-size: 13px;
+    font-family: 'lato-Light';
+    line-height: 100%;
+    margin: 0px;
+    text-decoration: none!important;
+    padding: 5px 5px 8px;
+    border: 1px solid #666666;
+  }
+  .BL-titulo {
+    font-size: 25px;
+    font-family: 'lato-Regular';
+    line-height: 100%;
+    margin: 0px 0px 5px 0px;
+    transition-duration: .5s;
+  }
+  .BL-subtitulo {
+    font-family: 'Lato-Light';
+    line-height: 100%;
+    font-size: 20px;
+    margin: 0px;
+    margin-bottom: 20px;
+    transition-duration: .5s;
+  }
+  .BL-link {
+    position: absolute;
+    text-align: center;
+    top: 165px;
+    left: 50%;
+    margin-left: -75px;
+    width: 150px;
+    font-size: 20px;
+    font-family: 'lato-Light';
+    transition-duration: .5s;
+  }
+  .BL-2x-1:hover>div>.link {
+    font-size: 25px;
+    transition-duration: .5s;
+  }
+  /*-------------------   Bloco de 3 - DESKTOP   -------------------*/
+  .BL_3x-txt {
+    margin-top: -30px;
+  }
+  .BL_3x-txt>a {
+    color: #666666;
+    font-family: 'lato-Light';
+    text-decoration: none;
+    font-size: 12px;
+    padding: 2px 20px;
+  }
+  /*-------------------   Extras - MOBILE   -------------------*/
+  .desk {
+    display: none!important;
+  }
+  .mobile2 {
+    display: block!important;
+  }
+  .img-camp {
+    height: 150px!important;
+    margin-bottom: 30px!important;
+    display: block!important;
+  }
+  #essentials>div>.BL-btn {
+    border: 1px solid white;
+    padding: 5px 20px;
+    transition-duration: .5s;
+  }
+  .img-cmtxt {
+    width: 140px;
+    margin-top: -5px;
+  }
+  /** ************ Geral ************ **/
+  .text {
+    font-family: 'Lato-light';
+    font-size: 18px;
+    color: #bbbbbb;
+    margin: auto;
+    text-align: justify;
+    text-align-last: center;
+    width: 80%;
+    max-width: 350px;
+  }
+  .title {
+    font-family: 'Lato-light';
+    font-size: 25px;
+    color: #ffffff;
+    margin: 10px auto;
+    text-align: justify;
+    text-align-last: center;
+  }
+  .sub-title {
+    font-family: 'Lato-light';
+    font-size: 18px;
+    color: #bbbbbb;
+    margin: auto;
+    text-align: justify;
+    text-align-last: center;
+    letter-spacing: 2px;
+  }
+  .legenda {
+    color: #bbbbbb;
+    text-align: justify;
+  }
+  #balao {
+    width: 100px;
+    position: absolute;
+    top: 15px;
+    left: 25%;
+  }
+  .woo {
+    position: fixed;
+    z-index: 999999;
+    left: 60px;
+    bottom: 50px;
+    animation: boo 10s infinite;
+  }
+  @keyframes boo {
+    0% {
+      width: 0px;
+      left: 100px;
+      height: 0px;
+    }
+    20% {
+      width: 0px;
+      left: 100px;
+      height: 0px;
+    }
+    23% {
+      width: 110px;
+      left: 100px;
+      height: 90px;
+    }
+    80% {
+      width: 110px;
+      left: 100px;
+      height: 90px;
+    }
+    83% {
+      width: 0px;
+      left: 100px;
+      height: 0px;
+    }
+    100% {
+      width: 0px;
+      left: 100px;
+      height: 0px;
+    }
+  }
+  .doll {
+    position: fixed;
+    z-index: 999999;
+    left: 20px;
+    bottom: 20px;
+    width: 80px;
+  }
+  .info {
+    bottom: 5px;
+    right: 10px;
+    font-family: 'Lato-light';
+    font-size: 13px;
+  }
+  div:hover>.info {
+    color: #ffffff;
+    font-size: 16px;
+  }
+  .cmBtn {
+    position: relative;
+    display: block;
+    width: 100px;
+    margin: auto;
+    margin-top: -70px!important;
+    padding: 5px 20px!important;
+    font-size: 12px;
+  }
+
+  .Promo30_img {
+    margin-top: -20px!important;
+    width: 80%!important;
+  }
+}
